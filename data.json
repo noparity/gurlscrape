@@ -1,0 +1,10 @@
+{
+    "matches": [
+        {
+            "uri": "https://shop.bitmain.com/productDetail.htm?pid=00020180109102414710EdNr3gMB067B",
+            "regex": [
+                "input type=\"button\" value=\"Add to Cart\" id=\"00020180109102414710EdNr3gMB067B\""
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "matches": [
+        {
+            "uri": "http://localhost:8080/",
+            "regex": [
+                "input type=\"button\" value=\"Add to Cart\" id=\"00020180109102414710EdNr3gMB067B\""
+            ]
+        }
+    ]
+}
